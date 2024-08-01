@@ -1,0 +1,58 @@
+Welcome to my CODSOFT Internship C++ Tasks repository! 
+This repository contains the C++ programming tasks I completed during my internship at CODSOFT.
+Each task showcases different aspects of C++ programming, demonstrating the skills and knowledge 
+I developed throughout my internship.
+
+Repository Contents :- 
+Task 1: Number Guessing Game
+Description:
+This task involves creating a simple Number Guessing Game using C++. The program generates a random number between 1 and 100 and prompts the user to guess the number. It provides feedback on whether the guess is too high or too low until the user guesses the correct number.
+
+Key Features:
+
+a) Random number generation
+b) User input and feedback loop
+c) Use of ANSI escape codes for colored text output
+
+
+
+
+Task 2: Simple Calculator
+Description:
+This task involves creating a Simple Calculator program using C++. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows the user to input two numbers and choose an operation to perform.
+
+Key Features:
+
+a) Basic arithmetic operations (addition, subtraction, multiplication, division)
+b) User input validation
+c) Menu-driven interface for user interaction
+d) Use of ANSI escape codes for colored text output
+
+
+
+
+Task 3: Tic-Tac-Toe Game
+Description:
+This task involves creating a simple console-based Tic-Tac-Toe game using C++. The game allows two players to play against each other on a 3x3 grid. The players take turns to place their markers ("X" and "O") on the grid, and the game checks for win or draw conditions after each move.
+
+Key Features:
+
+a) 3x3 game board display
+b) Two-player mode with alternating turns
+c) Input validation for player moves
+d) Check for win and draw conditions
+e) User-friendly interface with colored text output
+
+
+
+Task 4: To-Do List Manager
+Description:
+This task involves creating a simple console-based To-Do List Manager using C++. The program allows users to add, view, mark as completed, and delete tasks from their to-do list. The aim is to help users organize their tasks efficiently.
+
+Key Features:
+
+a) Add Task: Allows users to input tasks they want to add to the list.
+b) View Tasks: Displays the list of tasks with their status (completed or pending).
+c) Mark Task as Completed: Enables users to mark tasks as completed.
+d) Remove Task: Provides an option to remove tasks from the list.
+e) User Interface: Includes a user-friendly menu with clear instructions and colored text output.
