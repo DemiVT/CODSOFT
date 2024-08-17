@@ -1,58 +1,51 @@
-Welcome to my CODSOFT Internship C++ Tasks repository! 
-This repository contains the C++ programming tasks I completed during my internship at CODSOFT.
-Each task showcases different aspects of C++ programming, demonstrating the skills and knowledge 
-I developed throughout my internship.
 
-Repository Contents :- 
-Task 1: Number Guessing Game
-Description:
-This task involves creating a simple Number Guessing Game using C++. The program generates a random number between 1 and 100 and prompts the user to guess the number. It provides feedback on whether the guess is too high or too low until the user guesses the correct number.
+# CODSOFT Internship C++ Tasks Repository
 
-Key Features:
+Welcome to my **CODSOFT Internship C++ Tasks Repository**! This repository contains the C++ programming tasks I completed during my internship at CODSOFT. Each task highlights different aspects of C++ programming, demonstrating the skills and knowledge I developed throughout my internship.
 
-a) Random number generation
-b) User input and feedback loop
-c) Use of ANSI escape codes for colored text output
+## Repository Contents
 
+### Task 1: Number Guessing Game
 
+**Description:**
+This task involves creating a simple **Number Guessing Game** using C++. The program generates a random number between 1 and 100 and prompts the user to guess the number. It provides feedback on whether the guess is too high or too low until the correct number is guessed.
 
+**Key Features:**
+- Random number generation
+- User input and feedback loop
+- Use of ANSI escape codes for colored text output
 
-Task 2: Simple Calculator
-Description:
-This task involves creating a Simple Calculator program using C++. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows the user to input two numbers and choose an operation to perform.
+### Task 2: Simple Calculator
 
-Key Features:
+**Description:**
+This task involves creating a **Simple Calculator** program using C++. The calculator performs basic arithmetic operations such as addition, subtraction, multiplication, and division. It allows the user to input two numbers and choose an operation to perform.
 
-a) Basic arithmetic operations (addition, subtraction, multiplication, division)
-b) User input validation
-c) Menu-driven interface for user interaction
-d) Use of ANSI escape codes for colored text output
+**Key Features:**
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- User input validation
+- Menu-driven interface for user interaction
+- Use of ANSI escape codes for colored text output
 
+### Task 3: Tic-Tac-Toe Game
 
+**Description:**
+This task involves creating a simple console-based **Tic-Tac-Toe Game** using C++. The game allows two players to compete against each other on a 3x3 grid. Players take turns placing their markers ("X" and "O") on the grid, with the game checking for win or draw conditions after each move.
 
+**Key Features:**
+- 3x3 game board display
+- Two-player mode with alternating turns
+- Input validation for player moves
+- Win and draw condition checks
+- User-friendly interface with colored text output
 
-Task 3: Tic-Tac-Toe Game
-Description:
-This task involves creating a simple console-based Tic-Tac-Toe game using C++. The game allows two players to play against each other on a 3x3 grid. The players take turns to place their markers ("X" and "O") on the grid, and the game checks for win or draw conditions after each move.
+### Task 4: To-Do List Manager
 
-Key Features:
+**Description:**
+This task involves creating a simple console-based **To-Do List Manager** using C++. The program allows users to add, view, mark as completed, and delete tasks from their to-do list, helping users organize their tasks efficiently.
 
-a) 3x3 game board display
-b) Two-player mode with alternating turns
-c) Input validation for player moves
-d) Check for win and draw conditions
-e) User-friendly interface with colored text output
-
-
-
-Task 4: To-Do List Manager
-Description:
-This task involves creating a simple console-based To-Do List Manager using C++. The program allows users to add, view, mark as completed, and delete tasks from their to-do list. The aim is to help users organize their tasks efficiently.
-
-Key Features:
-
-a) Add Task: Allows users to input tasks they want to add to the list.
-b) View Tasks: Displays the list of tasks with their status (completed or pending).
-c) Mark Task as Completed: Enables users to mark tasks as completed.
-d) Remove Task: Provides an option to remove tasks from the list.
-e) User Interface: Includes a user-friendly menu with clear instructions and colored text output.
+**Key Features:**
+- Add Task: Allows users to input tasks to the list
+- View Tasks: Displays the list of tasks with their status (completed or pending)
+- Mark Task as Completed: Enables users to mark tasks as completed
+- Remove Task: Provides an option to remove tasks from the list
+- User Interface: Includes a user-friendly menu with clear instructions and colored text output
